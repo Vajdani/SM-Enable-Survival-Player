@@ -1,0 +1,16 @@
+{
+   "allow_add_mods" : true,
+   "custom_icons" : false,
+   "dependencies" : [
+      {
+         "fileId" : 3217450776,
+         "localId" : "de356fe0-5cac-48f3-b4b4-c2e6699d85bb",
+         "name" : "Enable Survival Player Harvestables"
+      }
+   ],
+   "description" : "[h1]This mod is no longer maintained. Feel free to modify and redistribute it however you like. For more information, see the LICENSE file on the mod's [url=https://github.com/Vajdani/SM-Enable-Survival-Player]github page[/url].[/h1]\r\n\r\n[h1]This mod enables survival functionality in creative.(Haven't tested in custom game modes)[/h1]\r\n\r\nThe mod offers a few chat commands to customize your experience.\r\n[b]Host only commands[/b]\r\n[list]\r\n[*]/pvp - Enables player vs player mode, players can hurt each other\r\n[*]/healthregeneration - Toggles health regeneration\r\n[*]/hunger - Toggles hunger\r\n[*]/thirst - Toggles thirst\r\n[*]/breathloss - Toggles breath loss underwater\r\n[*]/respawnstats - Sets start HP, thirst and hunger\r\n[*]/creativeinventory - Toggles the creative inventory\r\n[*]/collisiontumble - Toggles whether you can tumble from collisions\r\n[*]/collisiondamage - Toggles whether you can take damage from collisions\r\n[*]/godmode - Toggles god mode\r\n[*]/savepreset - Saves the current settings by name\r\n[*]/loadpreset - Loads settings by the preset name\r\n[*]/dropitems - Whether players drop death bags after dying\r\n[*]/ammoconsumption - Toggles whether weapons consume ammunition\r\n[*]/createteam - Creates a team with a name and colour(optional)\r\n[*]/deleteteam - Deletes a team\r\n[*]/friendlyfire - Toggles friendly fire\r\n[*]/setrespawncooldown - Sets the respawn cooldown\r\n[*]/unseatondamage - Sets whether the player gets unseated upon receiving damage\r\n[/list]\r\n\r\n[b]Commands usable by everyone[/b]\r\n[list]\r\n[*]/setspawnpoint - Sets your spawn point(takes priority over beds)\r\n[*]/clearspawnpoint - Clears your spawn point\r\n[*]/setteam - Sets your team\r\n[*]/clearteam - Clears your team\r\n[*]/listteams - Lists all the current teams in the chat\r\n[*]/displaynames - Sets the name display mode(1 - all / 2 - teammates only / 3 - none)\r\n[/list]",
+   "localId" : "new_uuid_here",
+   "name" : "Enable Survival Player",
+   "type" : "Blocks and Parts",
+   "version" : 1
+}

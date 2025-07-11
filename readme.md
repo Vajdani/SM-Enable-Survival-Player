@@ -1,4 +1,5 @@
 # This mod is no longer maintained. Feel free to modify and redistribute it however you like. For more information, see the LICENSE file.
+# When making your own version, copy paste the description_template.json file, rename it to description.json, and replace the loaclId field with a new UUID.
 
 ![Mod Preview](https://github.com/Vajdani/SM-Enable-Survival-Player/blob/master/preview.jpg)
 # This mod enables survival functionality in creative.(Haven't tested in custom game modes)
