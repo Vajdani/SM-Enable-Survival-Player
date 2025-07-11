@@ -1,3 +1,5 @@
+# This mod is no longer maintained. Feel free to modify and redistribute it however you like. For more information, see the LICENSE file.
+
 ![Mod Preview](https://github.com/Vajdani/SM-Enable-Survival-Player/blob/master/preview.jpg)
 # This mod enables survival functionality in creative.(Haven't tested in custom game modes)
 
@@ -7,7 +9,7 @@ The mod offers a few chat commands to customize your experience.
 - **/healthregeneration** - Toggles health regeneration
 - **/hunger** - Toggles hunger
 - **/thirst** - Toggles thirst
-- **/breathlos**s - Toggles breath loss underwater
+- **/breathloss** - Toggles breath loss underwater
 - **/respawnstats** - Sets start HP, thirst and hunger
 - **/creativeinventory** - Toggles the creative inventory
 - **/collisiontumble** - Toggles whether you can tumble from collisions
